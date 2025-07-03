@@ -14,3 +14,11 @@ button {
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.passo {
+    display: none ;
+}
+
+.passo.ativo {
+    display:block
+}
